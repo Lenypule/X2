@@ -1,0 +1,546 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Content Previews</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- HERO SECTION -->
+  <header class="hero">
+    <h1 class="hero-title">Content Previews</h1>
+
+    <p class="hero-subtitle">
+      Browse the previews below and select the content you're interested in. 
+      Click <span>Buy Now</span> to order instantly via Telegram.
+    </p>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main class="container">
+
+    <!-- PREVIEW CARD -->
+
+
+    <section class="card">
+
+<h2 class="card-title">All Premium DARKWEB Content - FULL</h2>
+
+<div class="video-card">
+
+  <div class="thumbnail-wrapper">
+    <img class="thumbnail" src="images/preview1.jpg">
+    <div class="play-icon">▶️</div>
+  </div>
+
+  <video class="video" controls="" playsinline="" preload="metadata">
+    <source src="media/preview1.mp4" type="video/mp4">
+
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<div class="card-description">
+  <div>📂 +1TB Collection</div>
+  <div>🔐 FULL PACKAGE</div>
+  <div>
+
+<button class="cta-button" data-title="FULL CONTENT" data-price="$150.00">
+  BUY NOW
+</button>
+
+</div></div></section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="card">
+
+      <h2 class="card-title">Monkeyapp - Reactions on BBC</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview1.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview1.mp4" type="video/mp4">
+ 
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 +40GB Collection</div>
+        <div>🔐 Rare Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Monkeyapp" data-price="$70.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <!-- FUTURE CARDS PLACEHOLDER -->
+    <!-- You will duplicate the card above for more previews -->
+
+    <section class="card">
+
+      <h2 class="card-title">Anxious Panda - Omegle</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview2.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview2.mp4" type="video/mp4">
+
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 +78GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Anxious Panda" data-price="$35.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Snapgod - Full Edition</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview3.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview3.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 +500GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Snapgod" data-price="$30.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Blackmailed Girls</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview4.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview4.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 +100GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Blackmail" data-price="$50.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Highschool Thots</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview5.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview5.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 3GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Highschool thots" data-price="$30.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Teens Blowjob</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview6.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview6.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 2GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Teens blowjob" data-price="$55.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Latina Teens 13-17yo</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview7.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview7.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 3GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Latina teens" data-price="$25.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">English Teens</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview8.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview8.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 5GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="English teens" data-price="$25.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">New Black Pyt</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview9.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview9.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 4GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Black pyt" data-price="$45.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Ayumi Leaks</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview10.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview10.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 2GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Ayumi" data-price="$35.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Emmi Sellers</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview11.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview11.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 8GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Emmi sellers" data-price="$25.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Ivanka & Bro - Incest</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview12.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview12.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 8GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Ivanka and Bro" data-price="$30.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">BottomQuark +18</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview13.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview13.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 2GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Bottomquark" data-price="$30.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Amelia Blonde Girl</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview14.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview14.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 1GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Amelia girl" data-price="$40.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Desire Garcia</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview15.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview15.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 1GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Desire garcia" data-price="$40.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+    <section class="card">
+
+      <h2 class="card-title">Darkzadie Ren</h2>
+
+      <div class="video-card">
+
+        <div class="thumbnail-wrapper">
+          <img class="thumbnail" src="images/preview16.jpg">
+          <div class="play-icon">▶️</div>
+        </div>
+      
+        <video class="video" controls="" playsinline="" preload="metadata">
+          <source src="media/preview16.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      <div class="card-description">
+        <div>📂 10GB Collection</div>
+        <div>🔐 Exclusive Folder</div>
+        <div>
+
+      <button class="cta-button" data-title="Darkzadie" data-price="$70.00">
+        BUY NOW
+      </button>
+
+    </div></div></section>
+
+
+  </main>
+
+  <!-- FULL MENU SECTION -->
+  <section class="full-menu">
+
+    <h2>Looking for a specific folder?</h2>
+
+    <p>
+      Send a DM and ask for the full content menu.
+    </p>
+
+    <button class="full-menu-btn" id="fullMenuBtn">
+      ASK FOR FULL MENU
+    </button>
+
+  </section>
+
+  <script src="js/script.js"></script>
+
+
+
+<footer class="footer">
+  <p>HotHub +18 — All rights reserved © 2026</p>
+</footer>
+</body></html>
