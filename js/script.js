@@ -61,11 +61,11 @@ if (fullMenuBtn) {
     const message = `💳 PAYMENT INSTRUCTIONS
 
 📦 Product: FULL CONTENT
-💰 Price: ${price}
+💰 Price: 150USD
 
 To complete your purchase, please follow these steps:
 
-1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price}.
+1️⃣ Buy a Binance Gift Card with a value equal to the product price: 150USD.
 
 🛒 Buy your Binance Gift Card here:
 https://www.g2a.com/best-deals/binance-gift-cards
