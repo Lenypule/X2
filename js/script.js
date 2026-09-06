@@ -10,8 +10,8 @@ const buyButtons = document.querySelectorAll(".cta-button");
 
 buyButtons.forEach((button) => {
   button.addEventListener("click", () => {
-    const title = button.getAttribute("data-title");
-    const price = button.getAttribute("data-price");
+    const title = button.getAttribute("data-title") || "Product";
+    const price = button.getAttribute("data-price") || "";
 
     const message = `💳 PAYMENT INSTRUCTIONS
 
@@ -20,7 +20,7 @@ buyButtons.forEach((button) => {
 
 To complete your purchase, please follow these steps:
 
-1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price} .
+1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price}.
 
 🛒 Buy your Binance Gift Card here:
 https://www.g2a.com/best-deals/binance-gift-cards
@@ -31,7 +31,7 @@ https://www.g2a.com/best-deals/binance-gift-cards
 
 4️⃣ Send the code in this Telegram chat.
 
-🤖 Once the payment is confirmed, your order will be processed in 30seconds.
+🤖 Once the payment is confirmed, your order will be processed in 30 seconds.
 
 ⚠️ IMPORTANT:
 
@@ -42,7 +42,6 @@ Thank you for your purchase! 🙏
 
 📌 PLEASE SAVE THIS MESSAGE
 Keep this message for your records.`;
-
 
     const url = `https://telegram.me/${telegramUsername}?text=${encodeURIComponent(message)}`;
 
@@ -57,16 +56,16 @@ const fullMenuBtn = document.getElementById("fullMenuBtn");
 
 if (fullMenuBtn) {
   fullMenuBtn.addEventListener("click", () => {
-    const message = "Hi, I'd like to see your full menu.";
+    const price = "150USD";
 
     const message = `💳 PAYMENT INSTRUCTIONS
 
 📦 Product: FULL CONTENT
-💰 Price: 150USD
+💰 Price: ${price}
 
 To complete your purchase, please follow these steps:
 
-1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price} .
+1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price}.
 
 🛒 Buy your Binance Gift Card here:
 https://www.g2a.com/best-deals/binance-gift-cards
@@ -77,7 +76,7 @@ https://www.g2a.com/best-deals/binance-gift-cards
 
 4️⃣ Send the code in this Telegram chat.
 
-🤖 Once the payment is confirmed, your order will be processed in 30seconds.
+🤖 Once the payment is confirmed, your order will be processed in 30 seconds.
 
 ⚠️ IMPORTANT:
 
@@ -95,14 +94,19 @@ Keep this message for your records.`;
   });
 }
 
-document.querySelectorAll(".video-card").forEach(card => {
+/* =========================
+   VIDEO CARDS
+========================= */
+document.querySelectorAll(".video-card").forEach((card) => {
   const wrapper = card.querySelector(".thumbnail-wrapper");
   const video = card.querySelector("video");
+
+  if (!wrapper || !video) return;
 
   wrapper.addEventListener("click", () => {
     wrapper.style.display = "none";
     video.style.display = "block";
     video.load();
-    video.play();
+    video.play().catch(() => {});
   });
 });
