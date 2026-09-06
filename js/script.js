@@ -18,30 +18,25 @@ buyButtons.forEach((button) => {
 📦 Product: ${title}
 💰 Price: ${price}
 
-To complete your purchase, please follow these steps:
+🛒 **Complete your purchase**
 
-1️⃣ Buy a Binance Gift Card with a value equal to the product price: ${price}.
+To pay **${price}**, follow these steps:
 
-🛒 Buy your Binance Gift Card here:
+**1️⃣ Buy a Binance Gift Card** for **${price}**:
 https://www.g2a.com/best-deals/binance-gift-cards
 
-2️⃣ After purchasing the Gift Card, check the email/account you used for the purchase to receive your Gift Card code.
+**2️⃣ Get your Gift Card code** from the email/account used for the purchase.
 
-3️⃣ Copy the Gift Card code.
+**3️⃣ Copy the code** and send it **here in this Telegram chat**.
 
-4️⃣ Send the code in this Telegram chat.
+🤖 **Payment confirmed → Order processed in ~30 seconds.**
 
-🤖 Once the payment is confirmed, your order will be processed in 30 seconds.
-
-⚠️ IMPORTANT:
-
-• Only send the Gift Card code.
-• Never send your password, email password, 2FA code, or other account credentials.
+⚠️ **IMPORTANT**
+• Send **ONLY the Gift Card code**.
+• Never send your password, 2FA code, email password, or other credentials.
 
 Thank you for your purchase! 🙏
-
-📌 PLEASE SAVE THIS MESSAGE
-Keep this message for your records.`;
+.`;
 
     const url = `https://telegram.me/${telegramUsername}?text=${encodeURIComponent(message)}`;
     window.open(url, "_blank");
